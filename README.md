@@ -1,2 +1,2 @@
 # ShopingCart
-vue小小项目购物车
+vue小小Demo购物车
